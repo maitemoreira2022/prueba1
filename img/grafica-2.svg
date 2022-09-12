@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1218.9 841.9" style="enable-background:new 0 0 1218.9 841.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;stroke:#1D1D1B;stroke-miterlimit:10;}
+	.st2{font-family:'AbrilFatface-Regular';}
+	.st3{font-size:30px;}
+	.st4{font-size:18px;}
+	.st5{font-size:23px;}
+	.st6{font-size:8px;}
+</style>
+<g id="Capa_1">
+	
+		<image style="overflow:visible;" width="2388" height="1668" xlink:href="grafica accidente.png"  transform="matrix(0.5456 0 0 0.5456 -84.0136 -34.092)">
+	</image>
+	<g>
+		<circle class="st0" cx="423.8" cy="123.4" r="29.6"/>
+		<polygon class="st1" points="418.8,101.8 411.4,118.9 436.3,118.9 428.2,101.8 		"/>
+	</g>
+	<g>
+		<circle class="st0" cx="862.3" cy="191.6" r="29.6"/>
+		<polygon class="st1" points="857.3,170.1 849.9,187.2 874.7,187.2 866.7,170.1 		"/>
+	</g>
+</g>
+<g id="Capa_2">
+	<text transform="matrix(1 0 0 1 937.9158 538.0763)" class="st2 st3">Argentina</text>
+	<text transform="matrix(1 0 0 1 212.2623 550.1102)" class="st2 st3">Chile</text>
+	<text transform="matrix(1 0 0 1 601.2043 538.0764)"><tspan x="0" y="0" class="st2 st4">Paso</tspan><tspan x="-31.2" y="21.6" class="st2 st4"> El planchón</tspan></text>
+	<text transform="matrix(1 0 0 1 140.236 127.6804)" class="st2 st5">Santiago</text>
+	<g>
+		<circle class="st0" cx="445" cy="269.4" r="29.6"/>
+		<polygon class="st1" points="440,247.8 432.5,264.9 457.4,264.9 449.3,247.8 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 431.4926 273.7089)"><tspan x="0" y="0" class="st2 st6">Volcán </tspan><tspan x="-9.4" y="9.6" class="st2 st6">Tinguiririca</tspan></text>
+	<text transform="matrix(1 0 0 1 848.814 197.8971)"><tspan x="0" y="0" class="st2 st6">Volcán </tspan><tspan x="-4.1" y="9.6" class="st2 st6">Sosneado</tspan></text>
+	<text transform="matrix(1 0 0 1 410.8315 130.5441)"><tspan x="0" y="0" class="st2 st6">Volcán </tspan><tspan x="-0.4" y="9.6" class="st2 st6">Palomo</tspan></text>
+</g>
+</svg>
